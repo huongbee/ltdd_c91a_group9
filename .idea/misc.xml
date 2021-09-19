@@ -13,9 +13,12 @@
         <entry key="..\:/AppGioHang23032021/app/src/main/res/layout/activity_product_list.xml" value="0.2351851851851852" />
         <entry key="..\:/AppGioHang23032021/app/src/main/res/layout/activity_register.xml" value="0.27395833333333336" />
         <entry key="..\:/AppGioHang23032021/app/src/main/res/layout/activity_splash.xml" value="0.27395833333333336" />
+        <entry key="app/src/main/res/drawable/bg_buy.xml" value="0.36574074074074076" />
         <entry key="app/src/main/res/layout/activity_cart.xml" value="0.3378623188405797" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.3378623188405797" />
         <entry key="app/src/main/res/layout/activity_payment.xml" value="0.3378623188405797" />
+        <entry key="app/src/main/res/layout/activity_product_list.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.2109375" />
         <entry key="app/src/main/res/layout/layout_item_cart.xml" value="0.3378623188405797" />
         <entry key="app/src/main/res/layout/layout_item_product.xml" value="0.3378623188405797" />
       </map>

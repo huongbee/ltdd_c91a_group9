@@ -83,7 +83,6 @@ public class ProductListActivity extends AppCompatActivity {
         mSearchView.setSearchableInfo(searchManager.getSearchableInfo(getComponentName()));
 
         //Hiển thị searchview full chiêu ngang của toolbar
-//        mSearchView.setMaxWidth(Integer.MAX_VALUE);
         mSearchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
             @Override
             public boolean onQueryTextSubmit(String query) {

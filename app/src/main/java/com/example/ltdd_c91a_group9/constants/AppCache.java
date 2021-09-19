@@ -26,7 +26,7 @@ public class AppCache {
                 return false;
             }
         } catch (FileNotFoundException e) {
-            Log.e("Exception", "File not found: " + e.toString());
+           // Log.e("Exception", "File not found: " + e.toString());
             return false;
         }
     }
